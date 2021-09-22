@@ -94,6 +94,11 @@ You can use self closing tags if the element you are working on does not have ch
 
 ## Q11 - What is autofilling and why is it important?
 
+Autofilling is when the browser suggests the input. This allows for easier completion
+
 ## Q12 - Which attributes are always present in an img element?
+"src"
+"alt"
 
 ## Q13 - Which attribute is always present for an anchor tag?
+"href" - corresponds to the link website
