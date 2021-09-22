@@ -90,7 +90,7 @@ hi as it is usually the tag for the page title whereas h3 is a tag for subsectio
 
 ## Q10 - In which situation can you use self closing tags?
 
-You can use self closing tags if the element you are working on does not have children
+You can use self closing tags if the element you are working on does not have children - tags like <img> or <input>
 
 ## Q11 - What is autofilling and why is it important?
 
